@@ -1,0 +1,78 @@
+EJERCICIO 1
+
+- mkdir RECUM5UF2
+- cd RECUM5UF2/
+- git init
+- nano README.TXT
+- mv README.TXT README.MD
+- git add . 
+- git status -s
+- git commit -m "Ejercicio 1"
+- git push https://github.com/mbaetam/RECUM5UF2.git master
+
+EJERCICIO 2
+
+- mkdir M5UF2
+- cd M5UF2/
+- git add .
+- git status -s
+- git commit -m "Ejercicio 2"
+- git push https://github.com/mbaetam/RECUM5UF2.git master
+
+EJERCICIO 3
+
+- mkdir TEMARIS
+- cd TEMARIS/
+- git add .
+- git status -s
+- git commit -m "Ejercicio 3"
+- git push https://github.com/mbaetam/RECUM5UF2.git master
+
+EJERCICIO 4
+
+- git add .
+- git status -s
+- git commit -m "Ejercicio 4"
+- git push https://github.com/mbaetam/RECUM5UF2.git master
+
+EJERCICIO 5
+
+- mkdir M3
+- cd M3/
+- mkdir M3UF4
+- mkdir M3UF5
+- mkdir M3UF6
+- git add .
+- git status -s
+- git commit -m "Ejercicio 5"
+- git push https://github.com/mbaetam/RECUM5UF2.git master
+
+EJERCICIO 6
+
+- git branch projecte
+- git checkout projecte
+- mkdir ESPECIFICACIO
+- git add .
+- git status -s
+- git commit -m "Ejercicio 6"
+- git push https://github.com/mbaetam/RECUM5UF2.git projecte
+
+EJERCICIO 7
+
+- git checkout master
+- git merge projecte
+- git push https://github.com/mbaetam/RECUM5UF2.git master
+
+EJERCICIO 8
+
+- git add .
+- git status -s
+- git commit -m "Ejercicio 8"
+- git push https://github.com/mbaetam/RECUM5UF2.git master
+
+
+
+
+
+
+
